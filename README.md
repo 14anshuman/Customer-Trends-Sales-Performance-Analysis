@@ -24,7 +24,10 @@ Customer-Trends-Sales-Performance-Analysis/
 ├── README.md  
 ├── customer_analysis.sql  
 ├── data_cleaning_analysis.ipynb  
-├── Customer_Trends_Dashboard.pbix  
+├── Customer_Trends_Dashboard.pbix 
+├── customer_shopping_behaviour.csv
+
+
 
 
 ---
